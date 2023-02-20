@@ -1,4 +1,4 @@
- # Reference: 
+# Reference: 
 # https://adoptium.net/installation/windows/
 # https://api.adoptium.net/q/swagger-ui/#/Installer
 # v2: Dynamically populate the feature_version parameter values with all available versions collected by API
